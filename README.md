@@ -1,4 +1,6 @@
 # Resume
-This project contains a website that includes my personal resume. This website is not always up-to-date, so please request my real resume, if needed!
 
-You can access it [here](https://tcaish.github.io).
+Welcome to my personal resume! If you have any questions, please feel free to
+reach out to me via the email I have on the website.
+
+You can access my resume website [here](https://tcaish.github.io).
